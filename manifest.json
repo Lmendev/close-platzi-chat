@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Close Platzi chat",
+  "description": "Close Platzi chat",
+  "version": "1.0",
+  "content_scripts": [ 
+    {
+      "css": [ "styles.css" ],
+      "matches": [ "https://platzi.com/home" ]
+    }
+  ]
+}

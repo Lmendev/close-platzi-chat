@@ -1,0 +1,13 @@
+.Chat {
+  display: none;
+}
+
+.StudentHome-grid {
+  justify-content: center;
+}
+
+@media only screen and (min-width: 75rem) {
+  div.StudentHome.StudentHome {
+    padding: 0;
+  }
+}
