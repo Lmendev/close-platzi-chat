@@ -1,6 +1,5 @@
 # Close platzi chat | Chrome extension
 
-## Description
 Remove chat for home page
 
 ## Install
