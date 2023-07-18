@@ -3,6 +3,10 @@
 Remove chat for home page
 
 ## Install
+### Download
+Get and unzip [Close platzi chat | Chrome extension](https://github.com/Lmendev/close-platzi-chat/archive/refs/tags/1.0.0.zip) 
+
+### Load to browser
 To load an unpacked extension in developer mode:
 
 1. Go to the Extensions page by entering chrome://extensions in a new tab. (By design chrome:// URLs are not linkable.)
@@ -13,4 +17,4 @@ To load an unpacked extension in developer mode:
 
 ![Extensions page (chrome://extensions)](https://github.com/Lmendev/close-platzi-chat/assets/2933342/61f99157-4d12-457b-93f3-0887247b7390)
 
-Also available for Brave web browser
+Available for Chrome and Brave web browser
